@@ -1,9 +1,8 @@
 ProjectData
 ===========
 
-SQLite Updates from project source code. This is updated on a nightly basis.
 
-The SQLite DB contains information from each analyzed .apk file including data from:
+The "EvolutionOfAndroidApplications.sqlite" SQLite DB contains information from each analyzed .apk file from GooglePlay including data from:
 - GooglePlay:
   -   User Rating
   -   Number of Downloads
@@ -16,4 +15,10 @@ The SQLite DB contains information from each analyzed .apk file including data f
   - Security risk assesment
   - Adherance to coding standards
   - Amount and type of over and under priviledges
-  - Utilized intents
+
+
+The databases GenomeGroupRep.sqlite and MalwareInfo.sqlite contain results obtained from malicious Android Applications as identified by:
+
+GenomeGroupRep.sqlite: http://www.malgenomeproject.org
+MalwareInfo.sqlite: http://contagiominidump.blogspot.com
+
