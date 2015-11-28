@@ -16,9 +16,3 @@ The "EvolutionOfAndroidApplications.sqlite" SQLite DB contains information from 
   - Adherance to coding standards
   - Amount and type of over and under priviledges
 
-
-The databases GenomeGroupRep.sqlite and MalwareInfo.sqlite contain results obtained from malicious Android Applications as identified by:
-
-GenomeGroupRep.sqlite: http://www.malgenomeproject.org
-MalwareInfo.sqlite: http://contagiominidump.blogspot.com
-
